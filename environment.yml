@@ -1,0 +1,11 @@
+name: webinar
+channels:
+  - conda-forge
+dependencies:
+  - python==3.12
+  - cdsapi
+  - eccodes
+  - earthkit-data
+  - earthkit-plots
+  - matplotlib
+  - cartopy
