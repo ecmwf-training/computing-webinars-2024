@@ -9,3 +9,6 @@ dependencies:
   - earthkit-plots
   - matplotlib
   - cartopy
+  - python-eccodes
+  - numpy
+  - pandas
